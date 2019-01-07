@@ -1,0 +1,30 @@
+.Ligne1 {
+  width: 100%;
+  height: 50px;
+}
+.carrébleu {
+  width: 100%;
+  height: 50px;
+  background-color: #2574A9;
+  float: left;
+}
+.Ligne2 {
+  width: 100%;
+  height: 50px;
+}
+.carréviolet {
+  width: 100%;
+  height: 50px;
+  background-color: #9A12B3;
+  float: left;
+}
+.Ligne3 {
+  width: 100%;
+  height: 50px;
+}
+.carrérose {
+  width: 100%;
+  height: 50px;
+  background-color: #DB0A5B;
+  float: left;
+}
